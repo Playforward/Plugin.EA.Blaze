@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Plugin.EA.Blaze/Plugin.EA.Blaze.csproj" />
+  <Project Path="Plugin.EA.Blaze.Tests/Plugin.EA.Blaze.Tests.csproj" />
+  <Project Path="../Plugin.EA.DirtySdk/Plugin.EA.DirtySdk/Plugin.EA.DirtySdk.csproj" />
+</Solution>
